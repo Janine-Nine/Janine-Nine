@@ -2,6 +2,7 @@
 
 🎓 Estudante de Tecnologia e Desenvolvimento de Sistemas  
 💻 Foco em Desenvolvimento Web Full Stack | Back-End 
+
 🌎 Disponível para trabalho remoto  
 🚀 Buscando oportunidade como Estagiária  
 
