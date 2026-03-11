@@ -1,9 +1,9 @@
 # Olá, meu nome é **Janine Tavares Cunha** — Desenvolvedora Web em formação 👩‍💻
 
 🎓 Estudante de Tecnologia e Desenvolvimento de Sistemas  
-💻 Foco em Desenvolvimento Web Full Stack  
+💻 Foco em Desenvolvimento Web Full Stack | Back-End 
 🌎 Disponível para trabalho remoto  
-🚀 Buscando oportunidade como Estagiária ou Desenvolvedora Júnior  
+🚀 Buscando oportunidade como Estagiária  
 
 🌎 English version → [Click here](README-Ingles.md)
 
@@ -134,7 +134,7 @@ Espanhol — Intermediário (em aprendizado)
 
 # 🎯 Objetivo de carreira
 
-Busco uma oportunidade como **Desenvolvedora Júnior ou Estagiária**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para o desenvolvimento de soluções de software bem estruturadas.
+Busco uma oportunidade como **Desenvolvedora Web Full Stack | Back-End ou Estagiária**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para o desenvolvimento de soluções de software bem estruturadas.
 
 ---
 
