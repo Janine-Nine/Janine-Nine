@@ -104,6 +104,12 @@ Aplicação back-end desenvolvida para teste técnico, focada na criação de ro
 ### 📊 Dashboard Web – GDASH
 Dashboard web desenvolvido como desafio técnico, focado em organização visual de dados.
 
+### 💄 Loja de Maquiagem – E-commerce Completo
+Aplicação de comércio eletrônico baseada na web para venda de produtos cosméticos, utilizando PHP, JavaScript, Bootstrap e MySQL.
+
+### 📸 Foto&Moda – Plataforma de Portfólio
+Sistema Full Stack para gerenciamento de portfólio de fotografia de moda. A plataforma permite que fotógrafos apresentem seus trabalhos, organizem galerias e publiquem editoriais fotográficos.
+
 ---
 
 # 💡 Áreas de interesse
