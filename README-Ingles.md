@@ -1,9 +1,10 @@
 # Hello, my name is **Janine Tavares Cunha** — Web Developer in Training 👩‍💻
 
 🎓 Technology and Systems Development Student  
-💻 Focused on Full Stack Web Development  
+💻 Focused on Full Stack Web Developer | Back-End Developer 
+
 🌎 Available for remote work  
-🚀 Seeking an opportunity as an Intern or Junior Developer  
+🚀 Seeking an opportunity as an Intern  
 
 🌎 Versão em português → [Clique aqui](README.md)
 
@@ -134,7 +135,7 @@ Spanish — Intermediate (learning)
 
 # 🎯 Career Goal
 
-I am looking for an opportunity as a **Junior Developer or Intern**, where I can apply my knowledge, grow technically and contribute to the development of well-structured software solutions.
+I am looking for an opportunity as a **Full Stack Web Developer | Back-End Developer or Intern**, where I can apply my knowledge, grow technically and contribute to the development of well-structured software solutions.
 
 ---
 
