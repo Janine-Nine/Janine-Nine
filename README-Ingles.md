@@ -110,6 +110,9 @@ Web-based e-commerce application for selling cosmetic products, built using PHP,
 ### 📸 Foto&Moda – Portfolio Platform
 Full Stack system for managing fashion photography portfolios. The platform allows photographers to showcase their work, organize galleries, and publish fashion editorials.
 
+### 🚢 Cruises & Tourism – Maritime Travel Agency Web System
+Complete Full Stack web system built with a simplified MVC architecture, developed to simulate a travel agency specialized in international cruise tourism.
+
 ---
 
 # 💡 Areas of Interest
