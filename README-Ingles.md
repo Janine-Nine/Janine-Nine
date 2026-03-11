@@ -104,6 +104,12 @@ Back-end application developed for a technical test, focused on route creation a
 ### 📊 Web Dashboard – GDASH
 Web dashboard developed as a technical challenge, focused on visual data organization.
 
+### 💄 Makeup Store – Complete E-commerce
+Web-based e-commerce application for selling cosmetic products, built using PHP, JavaScript, Bootstrap, and MySQL.
+
+### 📸 Foto&Moda – Portfolio Platform
+Full Stack system for managing fashion photography portfolios. The platform allows photographers to showcase their work, organize galleries, and publish fashion editorials.
+
 ---
 
 # 💡 Areas of Interest
