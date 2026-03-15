@@ -114,6 +114,14 @@ Sistema Full Stack para gerenciamento de portfólio de fotografia de moda. A pla
 ### 🚢 Cruzeiros & Turismo – Sistema Web de Agência de Viagens Marítimas Cruzeiros 
 Sistema web completo Full Stack em arquitetura MVC simplificada, desenvolvido para simular uma agência de viagens especializada em cruzeiros marítimos internacionais.
 
+### 🌸 Plataforma de Análise de Dados Hanami
+Sistema Full Stack para construção, processamento e visualização de dados de vendas em tempo real. Projeto desenvolvido com foco em arquitetura escalável, boas práticas de engenharia de software e experiência analítica moderna. 
+⭐Projeto criado para:
+
+RECODE PRO AI
+
+Instituto COCA - COLA
+
 ---
 
 # 💡 Áreas de interesse
