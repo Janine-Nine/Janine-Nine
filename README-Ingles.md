@@ -114,6 +114,14 @@ Full Stack system for managing fashion photography portfolios. The platform allo
 ### 🚢 Cruises & Tourism – Maritime Travel Agency Web System
 Complete Full Stack web system built with a simplified MVC architecture, developed to simulate a travel agency specialized in international cruise tourism.
 
+### 🌸 Hanami Data Analytics Platform
+
+Full Stack system for building, processing, and visualizing sales data in real time. The project was developed with a focus on scalable architecture, software engineering best practices, and a modern analytics experience.
+⭐ Project created for:
+
+RECODE PRO AI
+Coca-Cola Institute
+
 ---
 
 # 💡 Areas of Interest
