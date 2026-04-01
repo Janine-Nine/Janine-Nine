@@ -12,13 +12,10 @@
 
 # 🚀 Sobre mim
 
-Meu interesse por tecnologia começou aos **11 anos de idade**, quando tive meu primeiro contato com informática básica, utilizando ferramentas como **Windows, Word, Excel e PowerPoint**.
+Meu interesse pela área de tecnologia começou aos 11 anos, quando fiz um curso básico profissionalizante. Ao longo dos anos, passei por períodos de indecisão de carreira e enfrentei diferentes desafios no mercado de trabalho. Aí passei a ser babá dos meus primos que estavam nascendo e depois cuidei da minha vó paterna que estava com cancer. 
+Ao final do ano de 2019, quando decidi o que eu queria fazer, veio a pandemia. Mas durante a pandemia despertou em mim novamente o interesse por tecnologia. Em 2023, eu conheci a Recode Pro AI, comecei a pesquisar e entender melhor como funcionava os cursos, até descobrir na tecnologia uma oportunidade real de transformação profissional. No ano de 2024, eu resolvi me inscrever, passei por várias etapas de Hackathon, antes de entrar no curso de Formação Profissional em Tecnologia IA de Programação Full-Stack, Banco de Dados e Inteligência Artificial com duração de 540hs.
 
-Ao longo dos anos enfrentei diferentes desafios no mercado de trabalho, até descobrir na tecnologia uma oportunidade real de transformação profissional.
-
-Essa mudança começou quando ingressei no programa **Recode Pro AI**, que me proporcionou formação técnica estruturada e a oportunidade de iniciar uma nova carreira na área de tecnologia.
-
-Durante minha formação em desenvolvimento de software, aprofundei meus conhecimentos em:
+Durante minha formação em 1 ano em Desenvolvimento de Software, aprofundei meus conhecimentos em:
 
 - Desenvolvimento Web
 - Lógica de programação
