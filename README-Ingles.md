@@ -12,13 +12,11 @@
 
 # 🚀 About Me
 
-My interest in technology started at **11 years old**, when I had my first contact with basic computer skills, using tools such as **Windows, Word, Excel and PowerPoint**.
+My interest in the technology field began at the age of 11, when I took a basic vocational course. Over the years, I went through periods of career indecision and faced different challenges in the job market. During this time, I worked as a babysitter for my cousins who were being born, and later I took care of my paternal grandmother, who was battling cancer.
 
-Over the years I faced several challenges in the job market, until I discovered in technology a real opportunity for professional transformation.
+At the end of 2019, when I finally decided what I wanted to do, the pandemic began. However, during the pandemic, my interest in technology was awakened again. In 2023, I discovered Recode Pro AI and started researching and understanding how the courses worked, until I realized that technology was a real opportunity for professional transformation. In 2024, I decided to apply and went through several hackathon stages before being accepted into the Professional Training in Technology – Full-Stack Programming, Databases, and Artificial Intelligence, with a total duration of 540 hours.
 
-This change began when I joined the **Recode Pro AI** program, which provided structured technical training and the opportunity to start a new career in technology.
-
-During my software development training, I deepened my knowledge in:
+During my one-year training in Software Development, I deepened my knowledge in:
 
 - Web Development
 - Programming Logic
